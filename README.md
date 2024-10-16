@@ -8,8 +8,7 @@ It is advised to create a virtual environment and do the following:
 ```bash
 $ python -m venv myenv
 $ source myenv/bin/activate
-$ pip install mysql-connector-python tabulate
-$ pip install colorama
+$ pip install mysql-connector-python tabulate colorama
 ```
 
 # Setup Instructions
